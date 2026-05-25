@@ -1,1 +1,11 @@
-
+<img width="1365" height="629" alt="Home" src="https://github.com/user-attachments/assets/72561e96-27db-424b-9b9e-45bb9a71bec3" />
+<img width="1365" height="597" alt="Books_1" src="https://github.com/user-attachments/assets/ee7aa51d-5489-4736-be75-cec55025b2bc" />
+<img width="1365" height="602" alt="Books_2" src="https://github.com/user-attachments/assets/457cae4b-47cc-433f-87c8-81538acf8043" />
+<img width="1362" height="605" alt="Student_1" src="https://github.com/user-attachments/assets/fbe8f445-e06b-4dac-a9b2-bcd603dbfdf0" />
+<img width="1365" height="602" alt="Student_2" src="https://github.com/user-attachments/assets/a6268dca-c94a-4c6d-8a7c-cc1d99b0f8e2" />
+<img width="1365" height="601" alt="Dashboard" src="https://github.com/user-attachments/assets/fda40284-63a7-4861-a3e1-1004a76772cb" />
+<img width="1365" height="480" alt="Dashboard_1" src="https://github.com/user-attachments/assets/bd56f447-9977-4ac8-b58c-50b383b52ba8" />
+<img width="1365" height="599" alt="Dashboard_2" src="https://github.com/user-attachments/assets/6eedc317-732b-4ab4-8d13-4eb1143b3ab2" />
+<img width="1365" height="608" alt="Issued_Books_1" src="https://github.com/user-attachments/assets/18a0dd2a-0441-43b8-a406-b346bb664cf5" />
+<img width="1364" height="606" alt="Issued_Books_2" src="https://github.com/user-attachments/assets/ce8fb45a-4113-46d5-9c93-13deb93f18ac" />
+<img width="1361" height="592" alt="Overdue_Books" src="https://github.com/user-attachments/assets/b6486ba1-9619-4115-9217-95c1c4eed4ea" />
